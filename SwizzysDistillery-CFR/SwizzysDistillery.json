@@ -1,0 +1,87 @@
+{
+  "name": "Swizzy's Distillery (CFR)",
+  "author": "Swizzy Studios",
+  "version": "1.0.0",
+  "machines": [
+    {
+      "id": 0,
+      "name": "Swizzy's Distillery",
+      "description": "Produces Moonshine and special flavors of Meads",
+      "category": "Crafting",
+      "crafting": "388 30 334 1 335 1 725 1",
+      "texture": "Distillery.png",
+      "frames": 3,
+      "fps": 1,
+      "tileindex": 0,
+      "pulsate": true,
+      "production": [
+        {
+          "index": 459,
+          "description": "A fermented beverage made from honey. Drink in moderation.",
+          "prefix": true,
+          "price": "input * 1.5",
+          "category": "Artisan Goods",
+          "quality": 0,
+          "time": 600,
+          "materials": [
+            {
+              "index": 340,
+              "stack": 1
+            }
+          ]
+        },
+        {
+          "name": "Moonshine",
+          "index": 459,
+          "description": "An extremely strong alcoholic beverage made from Corn. Drink in moderation.",
+          "price": 250,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 0,
+          "quality": 0,
+          "time": 1440,
+          "materials": [
+            {
+              "index": 270,
+              "stack": 1
+            }
+          ]
+        },
+        {
+          "name": "Whiskey",
+          "index": 459,
+          "description": "An extremely strong alcoholic beverage made from Amaranth. Drink in moderation.",
+          "price": 350,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 1,
+          "quality": 0,
+          "time": 1800,
+          "materials": [
+            {
+              "index": 300,
+              "stack": 1
+            }
+          ]
+        },
+        {
+          "name": "Vodka",
+          "index": 459,
+          "description": "An extremely strong alcoholic beverage made from Potatoes. Drink in moderation.",
+          "price": 300,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 2,
+          "quality": 0,
+          "time": 2000,
+          "materials": [
+            {
+              "index": 192,
+              "stack": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
