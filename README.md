@@ -1,6 +1,6 @@
 SV-SwizzysDistillery-CFR
 =
-This mod will add in a new machine called the Distillery.  This is a purchase only machine from Gus for 5,000g.  This new machine will allow the creation of new Alcoholic Beverages: Moonshine, Vodka, Tequila, and Whiskey.  These beverages are considered alcoholic and will provide the tipsy buff.  These beverages can also be fermented to increase the quality by placing them into a cask.
+This mod will add in a new machine called the Distillery.  This is a purchase only machine from Gus for 5,000g.  This new machine will allow the creation of new Alcoholic Beverages: Moonshine, Vodka, Tequila, and Whiskey.
 
 [SwizzyMeads](https://github.com/SwizzyStudios/SV-SwizzyMeads) Included
 =
