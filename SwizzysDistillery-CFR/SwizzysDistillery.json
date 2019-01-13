@@ -6,12 +6,12 @@
     {
       "id": 0,
       "name": "Swizzy's Distillery",
-      "description": "Produces Moonshine and special flavors of Meads",
-      "category": "Crafting",
+      "description": "Produces Alcoholic Beverages",
+      "category": "Artisan Goods",
       "crafting": "388 30 334 1 335 1 725 1",
       "texture": "Distillery.png",
       "frames": 3,
-      "fps": 1,
+      "fps": 2,
       "tileindex": 0,
       "pulsate": true,
       "production": [
@@ -19,7 +19,7 @@
           "index": 459,
           "description": "A fermented beverage made from honey. Drink in moderation.",
           "prefix": true,
-          "price": "input * 1.5",
+          "price": "input * 2",
           "category": "Artisan Goods",
           "quality": 0,
           "time": 600,
@@ -32,14 +32,14 @@
         },
         {
           "name": "Moonshine",
-          "index": 459,
+          "index": 346,
           "description": "An extremely strong alcoholic beverage made from Corn. Drink in moderation.",
-          "price": 250,
+          "price": 200,
           "category": "Artisan Goods",
           "texture": "Alcohol.png",
           "tileindex": 0,
           "quality": 0,
-          "time": 1440,
+          "time": 2880,
           "materials": [
             {
               "index": 270,
@@ -51,12 +51,12 @@
           "name": "Whiskey",
           "index": 459,
           "description": "An extremely strong alcoholic beverage made from Amaranth. Drink in moderation.",
-          "price": 350,
+          "price": 400,
           "category": "Artisan Goods",
           "texture": "Alcohol.png",
           "tileindex": 1,
           "quality": 0,
-          "time": 1800,
+          "time": 5760,
           "materials": [
             {
               "index": 300,
@@ -66,17 +66,34 @@
         },
         {
           "name": "Vodka",
-          "index": 459,
+          "index": 303,
           "description": "An extremely strong alcoholic beverage made from Potatoes. Drink in moderation.",
-          "price": 300,
+          "price": 250,
           "category": "Artisan Goods",
           "texture": "Alcohol.png",
           "tileindex": 2,
           "quality": 0,
-          "time": 2000,
+          "time": 3600,
           "materials": [
             {
               "index": 192,
+              "stack": 1
+            }
+          ]
+        },
+        {
+          "name": "Tequila",
+          "index": 348,
+          "description": "An extremely strong alcoholic beverage made from Cactus Fruit. Drink in moderation...wait is that a worm?",
+          "price": 300,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 3,
+          "quality": 0,
+          "time": 4320,
+          "materials": [
+            {
+              "index": 90,
               "stack": 1
             }
           ]
