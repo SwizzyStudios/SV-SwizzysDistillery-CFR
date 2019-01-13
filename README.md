@@ -29,7 +29,7 @@ These beverages are considered alcoholic and will provide the tipsy buff.  These
 
 Installation steps
 =
-1. Download the mod from [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/3260) or from [GitHub Releases]
+1. Download the mod from [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/3260) or from [GitHub Releases](https://github.com/SwizzyStudios/SV-SwizzysDistillery-CFR/releases/tag/1.0.0)
 2. Place the SwizzysDistillery-CFR folder into the Stardew Valley Mods (Steam/steamApps/common/Stardew Valley/Mods)
 3. Start up Stardew Valley through SMAPI.
 
