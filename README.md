@@ -35,6 +35,7 @@ Installation steps
 
 Compatibility
 =
+Stardew Valley 1.3.33
 Required Mods:
 - [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991).
 - [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726).
