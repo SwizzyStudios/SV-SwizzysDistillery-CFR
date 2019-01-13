@@ -1,0 +1,11 @@
+{
+   "Name": "Swizzy's Distillery (CFR)",
+   "Author": "Swizzy Studios",
+   "Description": "Adds in a Distillery to create Moonshine, Whiskey, Vodka, and unique flavors of Mead",
+   "Version": "1.0.0",
+   "UniqueID": "SwizzyStudios.SwizzysDistillery",
+   "ContentPackFor": {
+       "UniqueID": "Platonymous.CustomFarming"
+    },
+    "UpdateKeys": ["Nexus:3260", "GitHub:SwizzyStudios/SV-SwizzysDistillery-CFR"]
+}
