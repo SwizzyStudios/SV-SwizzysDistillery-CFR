@@ -5,28 +5,29 @@
   "machines": [
     {
       "id": 0,
-      "name": "Swizzy's Distillery",
-      "description": "Produces Alcoholic Beverages",
+      "name": "Distillery",
+      "description": "Swizzy's Distillery patented design.  Used to produce Specialized Alcoholic Beverages",
       "category": "Artisan Goods",
-      "crafting": "388 30 334 1 335 1 725 1",
       "texture": "Distillery.png",
-      "frames": 3,
-      "fps": 2,
+      "forsale": true,
+      "shop": "Gus",
+      "price": 5000,
+      "frames": 5,
+      "fps": 3,
       "tileindex": 0,
       "pulsate": true,
       "production": [
         {
           "index": 459,
-          "description": "A fermented beverage made from honey. Drink in moderation.",
           "prefix": true,
+          "description": "A fermented beverage made from honey. Drink in moderation.",
           "price": "input * 2",
           "category": "Artisan Goods",
           "quality": 0,
           "time": 600,
           "materials": [
             {
-              "index": 340,
-              "stack": 1
+              "index": 340
             }
           ]
         },
@@ -42,8 +43,7 @@
           "time": 2880,
           "materials": [
             {
-              "index": 270,
-              "stack": 1
+              "index": 270
             }
           ]
         },
@@ -59,8 +59,7 @@
           "time": 5760,
           "materials": [
             {
-              "index": 300,
-              "stack": 1
+              "index": 300
             }
           ]
         },
@@ -76,8 +75,7 @@
           "time": 3600,
           "materials": [
             {
-              "index": 192,
-              "stack": 1
+              "index": 192
             }
           ]
         },
@@ -93,8 +91,7 @@
           "time": 4320,
           "materials": [
             {
-              "index": 90,
-              "stack": 1
+              "index": 90
             }
           ]
         }
