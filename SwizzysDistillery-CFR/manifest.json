@@ -6,5 +6,6 @@
    "UniqueID": "SwizzyStudios.SwizzysDistillery",
    "ContentPackFor": {
        "UniqueID": "Platonymous.CustomFarming"
-    }
+    },
+    "UpdateKeys": ["Nexus:3260", "GitHub:SwizzyStudios/SV-SwizzysDistillery-CFR"]
 }
