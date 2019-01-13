@@ -1,7 +1,8 @@
-# SV-SwizzysDistillery-CFR
+SV-SwizzysDistillery-CFR
+=
 This mod will add in a new machine called the Distillery.  This is a purchase only machine from Gus for 5,000g.  This new machine will allow the creation of new Alcoholic Beverages: Moonshine, Vodka, Tequila, and Whiskey.  These beverages are considered alcoholic and will provide the tipsy buff.  These beverages can also be fermented to increase the quality by placing them into a cask.
 
-Swizzy Meads Included
+[SwizzyMeads](https://github.com/SwizzyStudios/SV-SwizzyMeads) Included
 =
 Includes Swizzy Meads for the Distillery only but due to limitations the words Honey and Wild still remain in the product name.
 
@@ -16,6 +17,9 @@ Includes Swizzy Meads for the Distillery only but due to limitations the words H
 |Fairy Rose Honey|680g|Fairy Rose Mead|1,360g|1,904g|
 
 New Alcoholic Beverages
+=
+These beverages are considered alcoholic and will provide the tipsy buff.  These beverages can also be fermented to increase the quality by placing them into a cask.
+
 | Beverage Name | Produced From | Time to Produce | Base Value | Artisan Profession (40%) |
 |---------------|---------------|----------------:|-----------:|-------------------------:|
 |Moonshine|Corn x1|~2 Days|200g|280g|
@@ -31,7 +35,8 @@ Installation steps
 
 Compatibility
 =
-Requires [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991).
-Requires [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726).
-Requires [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400).
-For [Automate](https://www.nexusmods.com/stardewvalley/mods/1063) users also Requires [CFAutomate](https://www.nexusmods.com/stardewvalley/mods/991?tab=files). Select it under the Optional Files.
+Required Mods:
+- [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991).
+- [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726).
+- [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400).
+- For [Automate](https://www.nexusmods.com/stardewvalley/mods/1063) users also Requires [CFAutomate](https://www.nexusmods.com/stardewvalley/mods/991?tab=files). Select it under the Optional Files.
