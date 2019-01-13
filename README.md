@@ -25,7 +25,7 @@ These beverages are considered alcoholic and will provide the tipsy buff.  These
 |Moonshine|Corn x1|~2 Days|200g|280g|
 |Vodka|Potato x1|~2.5 Days|250g|350g|
 |Tequila|Cactus Fruit x1|~3 Days|300g|420g|
-|Whiskey|Amaranth|~4 Days|400g|560g|
+|Whiskey|Amaranth x1|~4 Days|400g|560g|
 
 Installation steps
 =
