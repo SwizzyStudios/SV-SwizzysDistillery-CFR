@@ -39,4 +39,6 @@ Required Mods:
 - [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991).
 - [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726).
 - [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400).
-- For [Automate](https://www.nexusmods.com/stardewvalley/mods/1063) users also Requires [CFAutomate](https://www.nexusmods.com/stardewvalley/mods/991?tab=files). Select it under the Optional Files.
+
+For [Automate](https://www.nexusmods.com/stardewvalley/mods/1063) users also Requires: 
+- [CFAutomate](https://www.nexusmods.com/stardewvalley/mods/991?tab=files). Select it under the Optional Files.
