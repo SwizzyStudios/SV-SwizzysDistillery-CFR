@@ -168,7 +168,7 @@
           "texture": "Alcohol.png",
           "tileindex": 8,
           "quality": 0,
-          "time": 10080,
+          "time": 20000,
           "materials": [
             {
               "index": 417
