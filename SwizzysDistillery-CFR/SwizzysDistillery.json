@@ -66,7 +66,7 @@
         {
           "name": "Vodka",
           "index": 303,
-          "description": "An extremely strong alcoholic beverage made from Potatoes. Drink in moderation.",
+          "description": "An extremely strong alcoholic beverage made from Potato. Drink in moderation.",
           "price": 250,
           "category": "Artisan Goods",
           "texture": "Alcohol.png",
@@ -81,17 +81,97 @@
         },
         {
           "name": "Tequila",
-          "index": 348,
+          "index": 346,
           "description": "An extremely strong alcoholic beverage made from Cactus Fruit. Drink in moderation...wait is that a worm?",
           "price": 300,
           "category": "Artisan Goods",
           "texture": "Alcohol.png",
           "tileindex": 3,
           "quality": 0,
-          "time": 4320,
+          "time": 4000,
           "materials": [
             {
               "index": 90
+            }
+          ]
+        },
+        {
+          "name": "Hard Cider",
+          "index": 348,
+          "description": "A strong alcoholic beverage made from Apple. Drink in moderation.",
+          "price": 350,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 4,
+          "quality": 0,
+          "time": 4320,
+          "materials": [
+            {
+              "index": 613
+            }
+          ]
+        },
+        {
+          "name": "Brandy",
+          "index": 459,
+          "description": "An extremely strong alcoholic beverage made from Grape. Drink in moderation.",
+          "price": 250,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 5,
+          "quality": 0,
+          "time": 3600,
+          "materials": [
+            {
+              "index": 398
+            }
+          ]
+        },
+        {
+          "name": "Gin",
+          "index": 459,
+          "description": "An extremely strong alcoholic beverage made from Blackberry. Drink in moderation.",
+          "price": 200,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 6,
+          "quality": 0,
+          "time": 2880,
+          "materials": [
+            {
+              "index": 410
+            }
+          ]
+        },
+        {
+          "name": "Rum",
+          "index": 348,
+          "description": "An extremely strong alcoholic beverage made from Spice Berry. Drink in moderation.",
+          "price": 300,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 7,
+          "quality": 0,
+          "time": 4000,
+          "materials": [
+            {
+              "index": 396
+            }
+          ]
+        },
+        {
+          "name": "Stardew Sweet Drop",
+          "index": 348,
+          "description": "Extremely rare alcoholic beverage made from Sweet Gem Berry only found in Stardew Valley.",
+          "price": 3500,
+          "category": "Artisan Goods",
+          "texture": "Alcohol.png",
+          "tileindex": 8,
+          "quality": 0,
+          "time": 10080,
+          "materials": [
+            {
+              "index": 284
             }
           ]
         }
