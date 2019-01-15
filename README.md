@@ -6,16 +6,6 @@ This mod will add in a new machine called the Distillery.  This is a purchase on
 =
 Includes Swizzy Meads for the Distillery only but due to limitations the words Honey and Wild still remain in the product name.
 
-| Honey Type | Base Value | Mead Type | Mead Base Value | Artisan Profession (40%) |
-|----------|---------:|---------|--------------:|-----------------------:|
-|Honey|100g|Honey Mead|200g|280g|
-|Wild Honey|100g|Wild Honey Mead|200g|280g|
-|Tulip Honey|160g|Tulpi Mead|320g|448g|
-|Blue Jazz Honey|200g|Blue Jazz Mead|400g|560g|
-|Summer Spangle Honey|280g|Summer Spangle Mead|560g|784g|
-|Poppy Honey|380g|Poppy Mead|760g|1,064g|
-|Fairy Rose Honey|680g|Fairy Rose Mead|1,360g|1,904g|
-
 New Alcoholic Beverages
 =
 These beverages are considered alcoholic and will provide the tipsy buff.  These beverages can also be fermented to increase the quality by placing them into a cask.
@@ -26,6 +16,12 @@ These beverages are considered alcoholic and will provide the tipsy buff.  These
 |Vodka|Potato x1|~2.5 Days|250g|350g|
 |Tequila|Cactus Fruit x1|~3 Days|300g|420g|
 |Whiskey|Amaranth x1|~4 Days|400g|560g|
+|Hard Cider|Apple x1|~4 Days|350g|490g|
+|Brandy|Grape x1|~2.5 Days|250g|350g|
+|Gin|Blackberry x1|~2 Days|200g|280g|
+|Rum|Spice Berry x1|~3 days|300g|420g|
+|Stardew Sweet Drop|Sweet Gem Berry x1|~14 Days|3500g|4900g|
+
 
 Installation steps
 =
